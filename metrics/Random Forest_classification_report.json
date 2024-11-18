@@ -1,0 +1,51 @@
+{
+    "apple": {
+        "precision": 0.9444444444444444,
+        "recall": 1.0,
+        "f1-score": 0.9714285714285714,
+        "support": 17.0
+    },
+    "bat": {
+        "precision": 0.9,
+        "recall": 0.9,
+        "f1-score": 0.9,
+        "support": 10.0
+    },
+    "beetle": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 10.0
+    },
+    "bell": {
+        "precision": 1.0,
+        "recall": 0.9523809523809523,
+        "f1-score": 0.975609756097561,
+        "support": 21.0
+    },
+    "bird": {
+        "precision": 0.8888888888888888,
+        "recall": 0.9411764705882353,
+        "f1-score": 0.9142857142857143,
+        "support": 17.0
+    },
+    "bone": {
+        "precision": 1.0,
+        "recall": 0.9333333333333333,
+        "f1-score": 0.9655172413793104,
+        "support": 15.0
+    },
+    "accuracy": 0.9555555555555556,
+    "macro avg": {
+        "precision": 0.9555555555555556,
+        "recall": 0.9544817927170869,
+        "f1-score": 0.9544735471985262,
+        "support": 90.0
+    },
+    "weighted avg": {
+        "precision": 0.9574074074074075,
+        "recall": 0.9555555555555556,
+        "f1-score": 0.9558634039542366,
+        "support": 90.0
+    }
+}
