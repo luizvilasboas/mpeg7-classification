@@ -26,6 +26,8 @@ pip install -r requirements.txt
 - `opencv-python`
 - `scikit-learn`
 - `matplotlib`
+- `seaborn`
+- `pandas`
 
 ## Conjunto de Dados
 
